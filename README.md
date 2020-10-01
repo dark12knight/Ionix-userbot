@@ -11,7 +11,7 @@
 Most powerful userbot ever
 ## 𝗠𝗼𝘀𝘁 𝗽𝗼𝘄𝗲𝗿𝗳𝘂𝗹𝗹 𝘂𝘀𝗲𝗿𝗯𝗼𝘁 𝘁𝗼 𝗺𝗮𝗻𝗮𝗴𝗲 𝘂𝗿 𝘁𝗲𝗹𝗲𝗴𝗿𝗮𝗺 𝗮𝗰𝗰𝗼𝘂𝗻𝘁
 
-## © By Team #S
+## © By Team #MatrixGang🇮🇳
 
 ### For any query or want to know how it works join Group And Channel 
 
