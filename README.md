@@ -1,35 +1,35 @@
-# FRIDAY-USERBOT
+# 𝗜𝗢𝗡𝗜𝗫 𝗨𝗦𝗘𝗥𝗕𝗢𝗧
 
 <p align="center">
-<img src="https://telegra.ph/file/22535f8051a58af113586.jpg" alt="FRIDAY USERBOT">
+<img src="https://telegra.ph/file/146232d08048652cb7ca2.jpg" alt="Ionix userbot">
 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 
 
-Best User Bot To Manage Your Telegram Account 
-## Most PowerFul And Better And Secure
+Most powerful userbot ever
+## 𝗠𝗼𝘀𝘁 𝗽𝗼𝘄𝗲𝗿𝗳𝘂𝗹𝗹 𝘂𝘀𝗲𝗿𝗯𝗼𝘁 𝘁𝗼 𝗺𝗮𝗻𝗮𝗴𝗲 𝘂𝗿 𝘁𝗲𝗹𝗲𝗴𝗿𝗮𝗺 𝗮𝗰𝗰𝗼𝘂𝗻𝘁
 
-## © By Team #SᴛᴀʀᴋGᴀɴɢ™
+## © By Team #S
 
 ### For any query or want to know how it works join Group And Channel 
 
-<a href="https://t.me/FridaySupportOfficial"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/fridayOT"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/ionox_ot_"><img src="https://img.shields.io/badge/Join-Telegram%20Group-red.svg?logo=Telegram"></a>
+<a href="https://t.me/Ionix_updates"><img src="https://img.shields.io/badge/Join-Telegram%20channel-blue.svg?logo=telegram"></a>
 
 ## HOW TO DEPLOY 
 
-<a href="https://youtu.be/xfHcm_e92eQ"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
 
 
-### Host Friday In Heroku
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/StarkGang/FridayUserbot)
+### Deploy Ionix In Heroku
+
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://githubhttps://github.com/matrixhackz/Ionix-userbot)
 
 ## Telegram-String
 
-[![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://friday.starkgang.repl.run)
+[![Run on Repl.it](http://repl.it/badge/github/Matrixhackz)](https://generatestringsession.devagyasharma.repl.run/)
 
 
 ### The Normal Way
