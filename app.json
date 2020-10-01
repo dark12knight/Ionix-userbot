@@ -1,7 +1,7 @@
 {
-  "name": "Friday-Userbot",
-  "description": "A Userbot Based On Telethon By @StarkXD",
-  "logo": "https://telegra.ph/file/b4e1e36c6b1fcb32dd997.jpg",
+  "name": "Ionix Userbot",
+  "description": "A Userbot Based On TeLethon and pyro by @xclone ",
+  "logo": "https://telegra.ph/file/146232d08048652cb7ca2.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,10 +9,10 @@
     "telegram-userbot",
     "productivity"
   ],
-  "repository": "https://github.com/starkgang/FridayUserbot",
-  "website": "starkgang.ml",
+  "repository": "https://github.com/matrixhackz/Ionix-userbot",
+  "website": "matrixgang.ml",
   "stack": "container",
-  "success_url": "t.me/FridayOT",
+  "success_url": "t.me/Ionix_ot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -57,7 +57,7 @@
       "required": false
     },
     "GIT_REPO_NAME": {
-      "description": "Your repo name Example: Midhunkm1294/FridayUserbot, but GITHUB_ACCESS_TOKEN must be setup first.",
+      "description": "Your repo name Example: xlcon18/Ionixuserbot, but GITHUB_ACCESS_TOKEN must be setup first.",
       "value": "",
       "required": false
     },
