@@ -1,6 +1,6 @@
 {
   "name": "Ionix-Userbot ",
-  "description": "A Userbot Based On Telethon By @xclone",
+  "description": "A Userbot Based On Telethon By @starxd",
   "logo": "https://telegra.ph/file/7c92f4de8908f1b34763a.jpg",
   "keywords": [
     "telegram",
@@ -11,7 +11,7 @@
   ],
   "repository": "https://github.com/matrixhackz/Ionix-userbot",
   "website": "starkgang.ml",
-  "success_url": "t.me/ionixot",
+  "success_url": "t.me/Fridayot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
