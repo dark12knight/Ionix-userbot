@@ -49,8 +49,8 @@ for name in files:
 
 import userbot._core
 
-print("Friday Have Been Installed Successfully !")
-print("You Can Visit @FridayOT For Any Support Or Doubts")
+print("IONIX Have Been Installed Successfully !")
+print("You Can Visit @ionix_ot For Any Support Or Doubts")
 
 if len(argv) not in (1, 3, 4):
     bot.disconnect()
