@@ -46,7 +46,7 @@
       "value": ""
     },
     "STRING_SESSION": {
-      "description": "Get From Repl.run Or Run Locally",
+      "description": "Get From https://generatestringsession.devagyasharma.repl.run/",
       "value": ""
     },
     "GITHUB_ACCESS_TOKEN": {
