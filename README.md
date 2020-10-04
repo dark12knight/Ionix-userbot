@@ -36,7 +36,7 @@ Most powerful userbot ever
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/starkGang/Fridayuserbot
+git clone https://github.com/matrixhackz/Ionix-userbot
 cd FridayUserbot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
@@ -86,4 +86,4 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 - $ Sudo Credits - Uniborg , @MrConfused
 - $ Some Bug Fixes - @Adarsh_xD , @Aid_3n, @Sur_vivor, @Everythingsuckz, @PureindiaLover 
 
-Check More Contribution At https://github.com/StarkGang/FridayUserbot/graphs/contributors
+Check More Contribution At https://github.com/matrixhackz/Ionix-userbot/graphs/contributors
