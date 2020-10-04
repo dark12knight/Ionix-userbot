@@ -25,7 +25,7 @@ Most powerful userbot ever
 
 ### Deploy Ionix In Heroku
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://githubhttps://github.com/matrixhackz/Ionix-userbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/matrixhackz/Ionix-userbot)
 
 ## Telegram-String
 
