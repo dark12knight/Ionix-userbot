@@ -37,7 +37,7 @@ Most powerful userbot ever
 Simply clone the repository and run the main file:
 ```sh
 git clone https://github.com/matrixhackz/Ionix-userbot
-cd FridayUserbot
+cd ionix userbot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
@@ -81,9 +81,8 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
 ## Credits 
 ```- Thanks To All Contributers For This Project 
-- $ Full Repo - X-Tra Telegram 
-- $ Lyrics Plugin // Inline Fix - @MrConfused
-- $ Sudo Credits - Uniborg , @MrConfused
-- $ Some Bug Fixes - @Adarsh_xD , @Aid_3n, @Sur_vivor, @Everythingsuckz, @PureindiaLover 
+- 
+
+k
 
 Check More Contribution At https://github.com/matrixhackz/Ionix-userbot/graphs/contributors
