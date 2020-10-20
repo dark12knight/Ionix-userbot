@@ -1,8 +1,8 @@
 
-# Copyright (C) 2019 The Raphielscape Company LLC.
+# Copyright (C) 2020 The Raphielscape Company LLC.
 # Licensed under the Raphielscape Public License, Version 1.c (the "License");
 # you may not use this file except in compliance with the License.
-# credits to @AvinashReddy3108
+# credits to @Xark047
 """
 This module updates the userbot based on upstream revision
 Ported from Kensurbot
@@ -18,7 +18,7 @@ from git.exc import GitCommandError, InvalidGitRepositoryError, NoSuchPathError
 HEROKU_APP_NAME = Var.HEROKU_APP_NAME
 HEROKU_API_KEY = Var.HEROKU_API_KEY
 UPSTREAM_REPO_BRANCH = "master"
-UPSTREAM_REPO_URL = "https://github.com/StarkGang/FridayUserbot"
+UPSTREAM_REPO_URL = "https://github.com/dark12knight/ionxix"
 
 requirements_path = path.join(
     path.dirname(path.dirname(path.dirname(__file__))), "requirements.txt"
@@ -74,7 +74,7 @@ async def deploy(event, repo, ups_rem, ac_br, txt):
         if HEROKU_APP_NAME is None:
             await event.edit(
                 "`Please set up the` **HEROKU_APP_NAME** `variable"
-                "Visit @FridayOT For More Support `"
+                
             )
             repo.__del__()
             return
@@ -191,21 +191,21 @@ async def upstream(event):
         return
     if changelog == "" and not force_update:
         await event.edit(
-            "\n`Friday is`  **up-to-date**  `with`  "
+            "\n`Ionxix is`  **up-to-date**  `with`  "
             f"**{UPSTREAM_REPO_BRANCH}**\n"
         )
         return repo.__del__()
     if conf == "" and force_update is False:
         await print_changelogs(event, ac_br, changelog)
         await event.delete()
-        return await event.respond('Update Friday Userbot By `.update deploy` // `.update now`')
+        return await event.respond('Update Ionxix Userbot By `.update deploy` // `.update now`')
 
     if force_update:
         await event.edit(
             "`Force-Sync to latest stable userbot code, please wait...`"
         )
     if conf == "now":
-        await event.edit("`Updating userbot, please wait....`")
+        await event.edit("`I'm Updating myself, please wait....`")
         await update(event, repo, ups_rem, ac_br)
     return
 
