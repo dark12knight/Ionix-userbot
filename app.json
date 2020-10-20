@@ -1,6 +1,6 @@
 {
   "name": "Ionix-Userbot",
-  "description": "A Userbot Based On Telethon By @MatrixGang",
+  "description": "A Userbot Based On Telethon By @Xark047",
   "logo": "https://telegra.ph/file/146232d08048652cb7ca2.jpg",
   "keywords": [
     "telegram",
@@ -9,7 +9,7 @@
     "telegram-userbot",
     "productivity"
   ],
-  "repository": "https://github.com/matrixhackz/Ionix-userbot",           "success_url": "t.me/ionix_ot",
+  "repository": "https://github.com/dark12knight/Ionix-userbot",           "success_url": "t.me/ionix_ot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -21,7 +21,7 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Enter Username Here Example : @paranormal_s  ",
+      "description": "Enter Your account name  ",
       "value": ""
     },
     "APP_ID": {
@@ -46,7 +46,7 @@
       "value": ""
     },
     "STRING_SESSION": {
-      "description": "Get From https://generatestringsession.devagyasharma.repl.run/",
+      "description": "Get From https://Ionxix.dark12knight.repl.run",
       "value": ""
     },
     "GITHUB_ACCESS_TOKEN": {
