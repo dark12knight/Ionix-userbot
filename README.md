@@ -11,7 +11,7 @@
 Most powerful userbot ever
 ## 𝗠𝗼𝘀𝘁 𝗽𝗼𝘄𝗲𝗿𝗳𝘂𝗹𝗹 𝘂𝘀𝗲𝗿𝗯𝗼𝘁 𝘁𝗼 𝗺𝗮𝗻𝗮𝗴𝗲 𝘂𝗿 𝘁𝗲𝗹𝗲𝗴𝗿𝗮𝗺 𝗮𝗰𝗰𝗼𝘂𝗻𝘁
 
-## © By Team #MatrixGang🇮🇳
+## © By Team #ionxixSupport
 
 ### For any query or want to know how it works join Group And Channel 
 
@@ -29,14 +29,14 @@ Most powerful userbot ever
 
 ## Telegram-String
 
-[![Run on Repl.it](http://repl.it/badge/github/Matrixhackz)](https://generatestringsession.devagyasharma.repl.run/)
+[![Run on Repl.it](http://repl.it/badge/github/dark12knight)](https://Ionxix.dark12knight.repl.run)
 
 
 ### The Normal Way
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/matrixhackz/Ionix-userbot
+git clone https://github.com/dark12knight/Ionix-userbot
 cd ionix userbot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
@@ -85,4 +85,4 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
 k
 
-Check More Contribution At https://github.com/matrixhackz/Ionix-userbot/graphs/contributors
+Check More Contribution At https://github.com/dark12knight/Ionix-userbot/graphs/contributors
