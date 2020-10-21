@@ -20,7 +20,7 @@ Most powerful userbot ever
 
 ## HOW TO DEPLOY 
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dark12knight/Ionix-userbot/tree/accountchecker)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dark12knight/Ionix-userbot/bolb/accountchecker)
 
 
 ### Deploy Ionix In Heroku
