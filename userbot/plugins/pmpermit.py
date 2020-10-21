@@ -198,3 +198,27 @@ async def hehehe(event):
             pmpermit_sql.approve(chat.id, "**My Boss Is Best🔥**")
             await borg.send_message(chat, "**User Detected As Developer ! Auto Approved**")
            
+   
+#InstantBlock
+NEEDIT = os.environ.get("INSTANT_BLOCK", None)
+if NEEDIT == "on":
+
+    @bot.on(events.NewMessage(incoming=True))
+    async def on_new_private_message(event):
+        event.message.message
+        event.message.media
+        event.message.id
+        event.message.to_id
+        chat_id = event.chat_id
+        sender = await borg.get_entity(chat_id)
+        if chat_id == borg.uid:
+            return
+        if sender.bot:
+            return
+        if sender.verified:
+            return
+        if not pmpermit_sql.is_approved(chat_id):
+            await borg(functions.contacts.BlockRequest(chat_id))
+
+
+# (c) Ionix
