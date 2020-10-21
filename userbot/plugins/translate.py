@@ -1,3 +1,6 @@
+#bug found by @cyb3rm4f1a
+ #Fixed by @Xark047
+
 """ Google Translate
 Available Commands:
 .tr LanguageCode as reply to a message
@@ -34,7 +37,7 @@ async def _(event):
         after_tr_text = translated.text
         # TODO: emojify the :
         # either here, or before translation
-        output_str = """**Translated By FridayUserbot** 
+        output_str = """**Translated By Ionix** 
          Source **( {} )**
          Translation **( {} )**
          {}""".format(
