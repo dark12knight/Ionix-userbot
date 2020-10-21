@@ -17,7 +17,7 @@ from git.exc import GitCommandError, InvalidGitRepositoryError, NoSuchPathError
 
 HEROKU_APP_NAME = Var.HEROKU_APP_NAME
 HEROKU_API_KEY = Var.HEROKU_API_KEY
-UPSTREAM_REPO_BRANCH = "master"
+UPSTREAM_REPO_BRANCH = "accountchecker"
 UPSTREAM_REPO_URL = "https://github.com/dark12knight/Ionix-userbot"
 
 requirements_path = path.join(
@@ -164,9 +164,9 @@ async def upstream(event):
         origin = repo.create_remote("upstream", off_repo)
         origin.fetch()
         force_update = True
-        repo.create_head("master", origin.refs.master)
-        repo.heads.master.set_tracking_branch(origin.refs.master)
-        repo.heads.master.checkout(True)
+        repo.create_head("accountchecker", origin.refs.accountchecker)
+        repo.heads.accountchecker.set_tracking_branch(origin.refs.accountchecker)
+        repo.heads.accountchecker.checkout(True)
     ac_br = repo.active_branch.name
     if ac_br != UPSTREAM_REPO_BRANCH:
         await event.edit(
