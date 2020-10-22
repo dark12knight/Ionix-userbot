@@ -5,7 +5,7 @@ from telethon.tl.types import (
     User
 )
 from telethon.utils import get_display_name
-from userbot.utils import ionix_on_cmd, sudo_cmd, edit_or_reply
+from userbot.utils import  sudo_cmd, edit_or_reply
 from userbot.uniborgConfig import Config
 
 @Ionix.on(events.NewMessage(
