@@ -113,6 +113,7 @@ if ENV:
         PRIVATE_GROUP_ID = int(os.environ.get("PRIVATE_GROUP_ID", False))
         PLUGIN_CHANNEL = int(os.environ.get("PLUGIN_CHANNEL", False))
         NEWS_CHANNEL_ID = int(os.environ.get("NEWS_CHANNEL_ID", False))
+        TAG_FEATURE = os.environ.get("TAG_FEATURE", "ENABLE")
 else:
     class Config(object):
         DB_URI = None
