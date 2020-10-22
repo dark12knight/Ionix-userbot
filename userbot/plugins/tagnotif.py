@@ -9,7 +9,7 @@ if Config.TAG_LOG:
 
 if Config.TAG_LOG:
 
-    @bot.on(
+    @uniborg.on(
         events.NewMessage(
             incoming=True,
             blacklist_chats=Config.UB_BLACK_LIST_CHAT,
