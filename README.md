@@ -29,7 +29,7 @@ Most powerful userbot ever
 
 ## Telegram-String
 
-[![Run on Repl.it](http://repl.it/badge/github/dark12knight)](https://Ionxix.dark12knight.repl.run)
+[![Run on Repl.it](https://github.com/dark12knight/Ionix-userbot/)](https://ionxix.dark12knight.repl.run/)
 
 
 ### The Normal Way
