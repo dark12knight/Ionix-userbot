@@ -29,7 +29,7 @@ Most powerful userbot ever
 
 ## Telegram-String
 
-[![Run on Repl.it](http://repl.it/badge/github/dark12knight)](https://Ionxix.dark12knight.repl.run)
+<a href="https://ionxix.dark12knight.repl.run/" target="_blank"><img src="https://img.shields.io/badge/run-string__session.py-red?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
 
 
 ### The Normal Way
