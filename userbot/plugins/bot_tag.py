@@ -5,10 +5,10 @@ from telethon.tl.types import (
     User
 )
 from telethon.utils import get_display_name
-from userbot.utils import borg_on_cmd sudo_cmd, edit_or_reply
+from userbot.utils import Ionix_on_cmd sudo_cmd, edit_or_reply
 from userbot.uniborgConfig import Config
 
-@borg.on(events.NewMessage(
+@Ionix.on(events.NewMessage(
     incoming=True,
     blacklist_chats=Config.UB_BLACK_LIST_CHAT,
     func=lambda e: (
